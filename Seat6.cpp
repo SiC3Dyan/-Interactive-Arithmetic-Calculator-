@@ -1,4 +1,3 @@
-/* RAINE CEDRIC P. CRUZ CSS121P_FOPM03 */
 
 #include <iostream>
 using namespace std;
