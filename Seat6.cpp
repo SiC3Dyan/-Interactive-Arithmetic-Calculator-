@@ -8,7 +8,14 @@ int main () {
   cout << "Welcome to the Interactive Arithmethic Calculator!" << endl;
 
   do {
-    cout << "\nEnter First Number: ";
+    cout << "Enter First Number: ";
     cin >> num1;
+
+    cout << "Enter an Arithmetic Operator (+, -, *, /): ";
+    cin >> op;
+
+    
+
+    
   }
 }
