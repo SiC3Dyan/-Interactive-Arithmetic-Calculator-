@@ -19,12 +19,16 @@ int main () {
 
     switch(op) {
       case: "+"
+        result = num1 + num2;
 
       case: "-"
+        result = num1 - num2;
 
       case: "*"
+        result = num1 * num2;
 
       case: "/"
+        
       }
 
     
