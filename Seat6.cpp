@@ -32,9 +32,11 @@ int main () {
         result = num1/num2;
         cout << "Result: " << num1 << "/" << num2 << "=" << result << endl; 
         } else {
-        cout << "Error: Division by zero is not allowed."  <<
-        
+        cout << "Error: Division by zero is not allowed." << endl;
         }
+      break;
+
+      
       }
 
     
