@@ -28,7 +28,10 @@ int main () {
         result = num1 * num2;
 
       case: "/"
-        if 
+        if (num2 !=0) {
+        result = num1/num2;
+        
+        }
       }
 
     
