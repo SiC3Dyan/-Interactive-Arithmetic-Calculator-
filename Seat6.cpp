@@ -39,10 +39,11 @@ int main () {
       default:
       cout << "Invalid operator entered. Please Enter +, -, *, /." << endl;
       break;
-
-      
       }
 
+    cout << "Do you want to perform another Operation? (y/n): ";
+    cin >> choice;
+  } while {
     
   }
 }
