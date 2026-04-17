@@ -30,6 +30,9 @@ int main () {
       case: "/"
         if (num2 !=0) {
         result = num1/num2;
+        cout << "Result: " << num1 << "/" << num2 << "=" << result << endl; 
+        } else {
+        cout << "Error: Division by zero is not allowed."  <<
         
         }
       }
