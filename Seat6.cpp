@@ -17,7 +17,15 @@ int main () {
     cout << "Enter Second Number: ";
     cin >> num2;
 
-    
+    switch(op) {
+      case: "+"
+
+      case: "-"
+
+      case: "*"
+
+      case: "/"
+      }
 
     
   }
