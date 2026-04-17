@@ -35,6 +35,10 @@ int main () {
         cout << "Error: Division by zero is not allowed." << endl;
         }
       break;
+  
+      default:
+      cout << "Invalid operator entered. Please Enter +, -, *, /." << endl;
+      break;
 
       
       }
