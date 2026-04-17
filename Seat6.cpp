@@ -20,6 +20,8 @@ int main () {
     switch(op) {
       case: "+"
         result = num1 + num2;
+      cout << "Result: " << num1 << "+" << num2 << result << endl;
+      break;
 
       case: "-"
         result = num1 - num2;
@@ -46,6 +48,6 @@ int main () {
   } while (choice == 'y' || choice == 'Y');
 
   cout << "Thank you for using this calculator. Goodbye!" << endl;
-    
-  }
+  
+  return 0;
 }
