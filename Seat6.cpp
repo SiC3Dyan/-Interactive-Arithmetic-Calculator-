@@ -28,7 +28,7 @@ int main () {
         result = num1 * num2;
 
       case: "/"
-        
+        if 
       }
 
     
