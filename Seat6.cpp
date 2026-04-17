@@ -43,7 +43,9 @@ int main () {
 
     cout << "Do you want to perform another Operation? (y/n): ";
     cin >> choice;
-  } while {
+  } while (choice == 'y' || choice == 'Y');
+
+  cout << "Thank you for using this calculator. Goodbye!" << endl;
     
   }
 }
