@@ -32,7 +32,12 @@ int main () {
         result = num1 * num2;
       cout << "Result: " << num1 << "*" << num2 << result << endl;
       break;
-      
+
+      case: "/"
+        if (num2 !=0) {
+        result = num1/num2;
+        cout << "Result: " << num1 << "/" << num2 << result << endl;
+        } else 
     }
   }
 }
