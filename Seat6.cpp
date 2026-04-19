@@ -16,6 +16,15 @@ int main () {
 
     cout << "Enter Second Number: ";
     cin >> num2;
+
+    switch(op) {
+      case: "+"
+        result = num1/num2;
+      cout << "Result: " << num1 << "+" << num2 << result << endl;
+      break;
+
+      
+    }
   }
 }
 }
