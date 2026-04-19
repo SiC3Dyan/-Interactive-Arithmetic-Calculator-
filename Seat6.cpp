@@ -11,6 +11,9 @@ int main () {
     cout << "Enter First Number: ";
     cin >> num1;
 
+    cout << "Enter an Arithmethic Operator (+, -, *, /): ";
+    cin >> op;
+
     cout << "Enter Second Number: ";
     cin >> num2;
   }
