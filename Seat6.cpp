@@ -9,9 +9,10 @@ int main () {
 
   do {
     cout << "Enter First Number: ";
-    cin >> op;
+    cin >> num1;
 
-    Enter 
+    cout << "Enter Second Number: ";
+    cin >> num2;
   }
 }
 }
