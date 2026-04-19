@@ -2,8 +2,16 @@
 using namespace std;
 
 int main () {
-  char op, choice;
+  char op, choice
   double num1, num2, result;
 
-  cout << "Welcome to the Interactive Calculator!" << endl;
+  cout << "Welcome to the Interactive Arithmethic Calculator!" << endl;
+
+  do {
+    cout << "Enter First Number: ";
+    cin >> op;
+
+    Enter 
+  }
+}
 }
