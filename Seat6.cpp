@@ -46,6 +46,8 @@ int main () {
       cout << "Invalid Operator entered. Please enter +, -. *. /." << endl;
       break;
     }
+    cout << "Do you want to perform another operation? (y/n): ";
+    cin >> choice
   }
 }
 }
