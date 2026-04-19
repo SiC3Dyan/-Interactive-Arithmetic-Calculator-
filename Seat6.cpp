@@ -37,7 +37,10 @@ int main () {
         if (num2 !=0) {
         result = num1/num2;
         cout << "Result: " << num1 << "/" << num2 << result << endl;
-        } else 
+        } else {
+        cout << "Error: Division by Zero is not allowed." << endl;
+        }
+      break;
     }
   }
 }
